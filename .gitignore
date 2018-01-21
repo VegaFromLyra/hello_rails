@@ -22,3 +22,6 @@
 
 # Ignore VIM files
 *.swp
+
+# Ignore application config
+config/application.yml
